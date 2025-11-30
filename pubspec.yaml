@@ -1,5 +1,5 @@
 name: multi_nested_circular_progress
-description: "A new Flutter package project."
+description: A customizable and animated multi-ring circular progress widget for Flutter, ideal for dashboards, stats, analytics, and progress displays.
 version: 0.0.1
 homepage: https://github.com/Uchyy/multi_nested_circular_progress
 repository: https://github.com/Uchyy/multi_nested_circular_progress
