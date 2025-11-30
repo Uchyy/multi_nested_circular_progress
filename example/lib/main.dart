@@ -46,7 +46,7 @@ class StatsExample extends StatelessWidget {
             const SizedBox(width: 16),
 
             MultiNestedCircularProgress(
-              size: 200,
+              size: 250,
               strokeWidth: 12,
               progresses: [
                 adjustedPlays,      // outer ring

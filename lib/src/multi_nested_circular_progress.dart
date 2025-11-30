@@ -64,12 +64,9 @@ class MultiNestedCircularProgress extends StatelessWidget {
 
               LayoutBuilder(
                 builder: (_, __) {
-                  final totalRingThickness =
-                      (progresses.length * strokeWidth) +
-                      ((progresses.length - 1) * gap);
+                  final totalRingThickness =  (progresses.length * strokeWidth) +  ((progresses.length - 1) * gap);
 
-                  final innerSize =
-                      size - (2 * totalRingThickness) - (2 * gap);
+                  final innerSize = size - (2 * totalRingThickness) - (2 * gap);
 
                   return SizedBox(
                     width: innerSize,
