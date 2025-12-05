@@ -12,9 +12,57 @@ and the Flutter guide for
 -->
 
 # 📘 `multi_nested_circular_progress`
-## ![Preview Animation](preview/preview.gif)
+<!-- PACKAGE BADGES -->
+<p align="center">
+  <!-- Pub.dev version -->
+  <a href="https://pub.dev/packages/multi_nested_circular_progress">
+    <img src="https://img.shields.io/pub/v/multi_nested_circular_progress.svg" alt="pub version">
+  </a>
+
+  <!-- Pub.dev likes -->
+  <a href="https://pub.dev/packages/multi_nested_circular_progress/score">
+    <img src="https://img.shields.io/pub/likes/multi_nested_circular_progress.svg" alt="likes">
+  </a>
+
+  <!-- Pub.dev points -->
+  <a href="https://pub.dev/packages/multi_nested_circular_progress/score">
+    <img src="https://img.shields.io/pub/points/multi_nested_circular_progress.svg" alt="pub points">
+  </a>
+
+  <!-- Pub.dev popularity -->
+  <a href="https://pub.dev/packages/multi_nested_circular_progress/score">
+    <img src="https://img.shields.io/pub/popularity/multi_nested_circular_progress.svg" alt="popularity">
+  </a>
+
+  <!-- GitHub Stars -->
+  <a href="https://github.com/Uchyy/multi_nested_circular_progress">
+    <img src="https://img.shields.io/github/stars/Uchyy/multi_nested_circular_progress?style=social" alt="GitHub Stars">
+  </a>
+
+  <!-- GitHub contributors -->
+  <a href="https://github.com/Uchyy/multi_nested_circular_progress/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/Uchyy/multi_nested_circular_progress.svg" alt="contributors">
+  </a>
+
+  <!-- GitHub closed issues -->
+  <a href="https://github.com/Uchyy/multi_nested_circular_progress/issues?q=is%3Aissue+is%3Aclosed">
+    <img src="https://img.shields.io/github/issues-closed/Uchyy/multi_nested_circular_progress.svg" alt="closed issues">
+  </a>
+
+  <!-- Buy Me A Coffee -->
+  <a href="https://www.buymeacoffee.com/uchyy">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-yellow.svg" alt="Buy Me A Coffee">
+  </a>
+
+  <!-- GitHub Sponsors -->
+  <a href="https://github.com/sponsors/Uchyy">
+    <img src="https://img.shields.io/badge/Sponsor-❤-red.svg" alt="Github Sponsors">
+  </a>
+</p>
 
 A simple, elegant Flutter package for displaying **multiple animated nested circular progress rings**, perfect for dashboards, analytics, fitness stats, achievements, level progress, and more.
+
+## ![Preview Animation](preview/preview.gif)
 
 ## ✨ Features
 
